@@ -1,0 +1,19 @@
+# Student Result Management System 🎓
+
+A simple Python project to manage student results.
+
+## Features
+- Enter student details
+- Calculate total marks
+- Calculate percentage
+- Generate grades
+
+## Technology Used
+- Python
+
+## How to Run
+
+python student_result.py
+
+## Author
+Jivan Rathod
